@@ -5,11 +5,11 @@ An web page featuring a dynamic table was created on behalf of client Dana in or
 End users may view the full, unfiltered data set by leaving the filters blank, as below.
 
 
-![Unfiltered Site](unfiltered.png)
+![Unfiltered Site](static/images/unfiltered.png)
 
 Or, the user may enter a set of criteria through which to narrow the view, as below.
 
-![Site with a filtered parameter](filtered.png)
+![Site with a filtered parameter](static/images/filtered.png)
 
 End users may filter their searches within the following parameters:
 - Date of sighting
